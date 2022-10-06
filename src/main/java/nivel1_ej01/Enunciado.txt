@@ -1,0 +1,3 @@
+A partir de una lista de Strings, escribe un método
+que devuelve una lista de todas las cadenas que contienen
+la letra ‘o’. Imprime el resultado.

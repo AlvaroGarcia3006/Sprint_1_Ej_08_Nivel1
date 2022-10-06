@@ -1,0 +1,2 @@
+Crea una lista con los nombres de los meses del año.
+Imprime todos los elementos de la lista con una lambda.

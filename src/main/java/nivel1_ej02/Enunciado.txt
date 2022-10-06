@@ -1,0 +1,3 @@
+Tienes que hacer lo mismo que en el punto anterior, pero ahora, 
+el método debe devolver una lista con los Strings que además de 
+contener la letra “o” también tienen más de 5 letras. Imprime el resultado.

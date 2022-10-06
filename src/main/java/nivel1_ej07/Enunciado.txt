@@ -1,0 +1,2 @@
+Con la lista del ejercicio anterior, ahora ordénala al revés, 
+de cadena más larga a más corta.

@@ -1,0 +1,2 @@
+Realizar la misma impresión del punto anterior, 
+pero mediante method reference.
